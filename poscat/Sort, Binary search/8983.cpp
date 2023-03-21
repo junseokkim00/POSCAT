@@ -17,9 +17,10 @@ int main() {
     }
     sort(v.begin(), v.end());
     for(int i=0;i<n;i++) {
-        int a,b;
-        cin >> a >> b;
+        int x,y;
+        cin >> x >> y;
         // binary search on every coordinates
+        // 
     }
     
     
